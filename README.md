@@ -1,2 +1,2 @@
 # Zomato-Dataset-EDA
-Exploratory Data Analysis on Zomato dataset to find out actionable insights to take informed business decisions.
+Performed an exploratory data analysis on the Zomato dataset to uncover valuable insights that can guide informed business decisions.
